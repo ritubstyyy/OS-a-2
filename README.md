@@ -1,1 +1,1 @@
-# OS-a-2
+# Implemented simple shell in C
